@@ -1,4 +1,4 @@
-FROM busybox:latest
+FROM alpine
 
 LABEL maintainer "Philipp Behmer - https://github.com/PhilippBehmer"
 
